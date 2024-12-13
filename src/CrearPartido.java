@@ -2,10 +2,7 @@
 import java.awt.event.KeyEvent;
 
 
-/**
- * 
- * @author 1DAW2425-05
- */
+
 public class CrearPartido extends javax.swing.JFrame
 {
    
